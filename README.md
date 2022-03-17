@@ -68,5 +68,7 @@ There are correlation between heavier player and older players, but it doesn't m
 
 After analyzing the data base, we understand that  main foot and Height doesn't have a good correlation of how good a player is. In the other hand, Weight and Age, have a clear correlation, but the results are contra intuitive, the heavier the player, the  better ranked he is (and its not because of the Height), and the older the player, the better ranked he is. This second correlation in even more clear than the first. There is correlation too between heavier and older player, it can be the reason why heavier players are paid more, but the information i have it's not conclusive and deeper analysis would be necessary to determine that.
 
+You can see the code in: https://github.com/Chelo-ad/Fifa_best_players/blob/main/best_players.ipynb
+
 
 
