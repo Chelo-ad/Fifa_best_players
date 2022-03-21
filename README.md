@@ -18,7 +18,7 @@ Python Version: 3.10
 
 # Explore and clean data
 
-Data used from the Oficcial Fifa data 2020: male preofessional players
+Data used from the Oficcial Fifa data 2020: male preofessional players [(https://www.kaggle.com/datasets/ekrembayar/fifa-21-complete-player-dataset)]
 
 I created a new data frame with the columns I'm going to use. In the original data set we have a bunch of columns, but I'm going to look only at how physical aspects can affect the over all ranking of players. We have the following physical aspects: Height, Weight, Age and Foot (there are other physical aspects that are more subjective and because of that they are not going to be analyzed on this work).
 
